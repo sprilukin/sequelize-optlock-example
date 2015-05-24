@@ -1,0 +1,18 @@
+{
+  "name": "ormtest",
+  "version": "0.0.1",
+  "description": "orm test app",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Sergey Prilukin <sprilukin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "deep-extend": "^0.4.0",
+    "pg": "^4.3.0",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "git+https://git@github.com/sprilukin/sequelize.git",
+    "underscore": "^1.8.3"
+  }
+}
